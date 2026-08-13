@@ -12,7 +12,7 @@ BOT_TOKEN = "8656802582:AAEFkzAVf42vnqBIHz4BWk3hlyYlQIb1Pyc"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # API Endpoint
-API_URL = "https://craftland-bot.vercel.app/"
+API_URL = "https://craftland-bot.vercel.app/api/follow"
 
 # Store user data
 user_data = {}
